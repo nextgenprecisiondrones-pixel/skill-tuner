@@ -1,0 +1,13 @@
+{
+  "name": "skill-tuner",
+  "displayName": "Skill Tuner",
+  "version": "1.0.0",
+  "description": "Correct a skill once, it stops repeating the mistake. Logs lessons from your corrections and folds them into the skill itself, with your approval.",
+  "author": {
+    "name": "NextGen Lab Studio",
+    "url": "https://github.com/nextgenprecisiondrones-pixel"
+  },
+  "repository": "https://github.com/nextgenprecisiondrones-pixel/skill-tuner",
+  "license": "MIT",
+  "keywords": ["skills", "self-improving", "corrections", "learning", "claude-code"]
+}

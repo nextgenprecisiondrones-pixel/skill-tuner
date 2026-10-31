@@ -1,0 +1,17 @@
+{
+  "name": "skill-tuner",
+  "description": "Skill Tuner: self-improving skills in one file.",
+  "owner": {
+    "name": "NextGen Lab Studio",
+    "url": "https://github.com/nextgenprecisiondrones-pixel"
+  },
+  "plugins": [
+    {
+      "name": "skill-tuner",
+      "source": "./",
+      "description": "Correct a skill once, it stops repeating the mistake.",
+      "category": "productivity",
+      "tags": ["skills", "self-improving", "corrections"]
+    }
+  ]
+}
